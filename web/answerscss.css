@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 Jan, 2017, 7:00:35 PM
+    Author     : Riya Arora
+*/
+body
+{
+    background:url(resource/M.jpg) repeat;
+}
+.c1
+{
+    font-size:25px;
+    background-color:#660000;
+    color:burlywood;
+    border: 5px solid saddlebrown;
+    border-radius:10px;
+    font-family:cursive;
+    font-weight:bold;
+    width:40%;
+}
+.c2
+{
+  font-size:15px;
+  color:black;
+}
+.c3
+{
+ background-color:bisque;
+ color:black;
+ font-size:15px;
+ margin-left: 10px;
+}
+.c4{
+ background-color:#660000;
+ color:bisque;
+ font-size:15px;
+padding:.3%;
+}
+.c5
+{
+color:#660000;
+font-size:45px;
+font-family:serif; 
+}
+.c6
+{
+border:1px solid darkkhaki;
+width:13%;
+background-color:#660000;
+color:bisque;
+}
+.c7
+{
+    text-decoration:none;
+    color:bisque;
+    
+}
+.c8
+{
+width:20%;
+height:25%;
+}
+
